@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Screenshot
+<table>
+<tr>
+    <td><img src="https://github.com/himanshugarg08/flutter_assignment/blob/main/Screenshot_1625313008.png" width=216 height=408 padding = "20"/></td>
+  </tr>
+</table>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
